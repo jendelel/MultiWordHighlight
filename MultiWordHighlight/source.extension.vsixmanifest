@@ -4,6 +4,9 @@
         <Identity Id="MultiWordHighlight.3f27d190-0b7d-40dd-ad04-9490be06709f" Version="1.0" Language="en-US" Publisher="Lukas Jendele" />
         <DisplayName>MultiWordHighlight</DisplayName>
         <Description xml:space="preserve">Highlights all occurences of up to 5 words in all open files.</Description>
+        <MoreInfo>https://github.com/jendelel/MutliWordHighlight</MoreInfo>
+        <License>LICENSE.txt</License>
+        <GettingStartedGuide>https://github.com/jendelel/MutliWordHighlight</GettingStartedGuide>
         <Icon>Resources\HighlightWordCommandsPackage.ico</Icon>
         <PreviewImage>Resources\HighlightWordCommandsPackage.ico</PreviewImage>
         <Tags>higlight words sticky multiple multiwordshighlight editor</Tags>
