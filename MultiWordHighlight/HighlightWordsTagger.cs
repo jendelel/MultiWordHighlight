@@ -104,6 +104,8 @@ ITextStructureNavigator textStructureNavigator)
             this.WordSpans = new List<NormalizedSnapshotSpanCollection>();
             this.View.LayoutChanged += ViewLayoutChanged;
             HighlightWordsSettingsManager.SettingsChanged += () => { UpdateWordsAdornments(); };
+
+            UpdateAtCaretPosition(this.View.Caret.Position);
         }
 
         void ViewLayoutChanged(object sender, TextViewLayoutChangedEventArgs e)
