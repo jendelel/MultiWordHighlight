@@ -1,7 +1,7 @@
 # MutliWordHighlight
-Visual Studio Extension that highlights multiple custom words in all open files.
+Visual Studio Extension that highlights multiple custom words in all open files and other VS windows (Find Results, Output etc.).
 
-I created this extension for my father for his birthday. By downloading or using this extension, you are congratulating him as well. ;)
+I created this extension for my father for his birthday. **By downloading or using this extension, you are congratulating him as well. ;)**
 
 ## How to install
 Install via Visual Studio Marketplace (https://marketplace.visualstudio.com/items?itemName=jendelel.MultiWordHighlight).
