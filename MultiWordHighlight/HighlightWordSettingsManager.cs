@@ -14,7 +14,7 @@ namespace MultiWordHighlight
         internal static SettingsManager VsManagedSettingsManager =
             new ShellSettingsManager(ServiceProvider.GlobalProvider);
 
-        private const int _maxWords = 5;
+        private const int _maxWords = 50;
         private const string _collectionSettingsName = "Text Editor";
         private const string _settingName = "HighlightWords";
 
