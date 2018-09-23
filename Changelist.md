@@ -1,4 +1,6 @@
 ## Changelist for MultiWordHighlight
+### 23/09/2018
+* Support for unlimited number of highlighted words.
 
 ### 23/05/2018
 * Support for VS2017, VS2015 (Enterprise, Pro, Community)

@@ -89,7 +89,7 @@ namespace MultiWordHighlight
 
     class HighlightWordClass : TextMarkerTag
     {
-        public HighlightWordClass(int color) : base($"MarkerFormatDefinition/HighlightWordFormatDefinition{color + 1}") { }
+        public HighlightWordClass(int color) : base($"MarkerFormatDefinition/HighlightWordFormatDefinition{(color % 5) + 1}") { }
     }
 
     internal class HighlightWordTagger : ITagger<HighlightWordClass>
