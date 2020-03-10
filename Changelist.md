@@ -1,4 +1,7 @@
 ## Changelist for MultiWordHighlight
+### 10/03/2020
+* Support for VS2019.
+
 ### 23/09/2018
 * Support for unlimited number of highlighted words.
 
